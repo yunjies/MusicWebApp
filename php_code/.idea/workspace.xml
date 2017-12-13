@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14fcad10-12b4-4532-bf79-a4fcf5f7c5ba" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="StartPage.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StartPage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1434">
+              <caret line="201" column="26" lean-forward="false" selection-start-line="201" selection-start-column="26" selection-end-line="201" selection-end-column="26" />
+              <folding>
+                <marker date="1512783090435" expanded="true" signature="238:483" ph="SELECT aname... favorite" />
+                <marker date="1512783090435" expanded="true" signature="1023:1277" ph="SELECT uid, favorite" />
+                <marker date="1512783090435" expanded="true" signature="5270:5371" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5304:5371" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5321:5371" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5480:6729" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5530:6729" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5578:5752" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5830:6729" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5879:6729" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5929:6729" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="5969:6689" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="6006:6648" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="6047:6131" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="6172:6265" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="6306:6397" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="6438:6526" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="6567:6610" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="6862:7240" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="7712:9255" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="7751:9255" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="7768:7819" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="7875:9255" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="7925:9255" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="7973:8145" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8223:9255" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8272:9255" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8322:9255" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8362:9215" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8399:9174" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8440:8524" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8565:8658" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8699:8788" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8829:8920" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="8961:9052" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="9093:9136" ph="..." />
+                <marker date="1512783090435" expanded="true" signature="9388:9880" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StartPage.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="754" />
+    <option name="y" value="12" />
+    <option name="width" value="1150" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14fcad10-12b4-4532-bf79-a4fcf5f7c5ba" name="Default" comment="" />
+      <created>1512782760162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512782760162</updated>
+      <workItem from="1512782764970" duration="436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="436000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.044270832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/StartPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1434">
+          <caret line="201" column="26" lean-forward="false" selection-start-line="201" selection-start-column="26" selection-end-line="201" selection-end-column="26" />
+          <folding>
+            <marker date="1512783090435" expanded="true" signature="238:483" ph="SELECT aname... favorite" />
+            <marker date="1512783090435" expanded="true" signature="1023:1277" ph="SELECT uid, favorite" />
+            <marker date="1512783090435" expanded="true" signature="5270:5371" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5304:5371" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5321:5371" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5480:6729" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5530:6729" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5578:5752" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5830:6729" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5879:6729" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5929:6729" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="5969:6689" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="6006:6648" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="6047:6131" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="6172:6265" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="6306:6397" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="6438:6526" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="6567:6610" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="6862:7240" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="7712:9255" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="7751:9255" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="7768:7819" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="7875:9255" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="7925:9255" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="7973:8145" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8223:9255" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8272:9255" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8322:9255" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8362:9215" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8399:9174" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8440:8524" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8565:8658" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8699:8788" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8829:8920" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="8961:9052" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="9093:9136" ph="..." />
+            <marker date="1512783090435" expanded="true" signature="9388:9880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
